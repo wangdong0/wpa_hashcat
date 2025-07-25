@@ -1,0 +1,4 @@
+# hashcat 输出参数配置
+HASHCAT_OUTPUT="-o wpa_hashcat_crack.txt"
+# hashcat 优化参数配置
+# HASHCAT_OPTS="--kernel-accel=16 --kernel-loops=512 --optimized-kernel-enable --hwmon-disable -O --force"
