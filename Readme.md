@@ -1,6 +1,6 @@
 # wpa_hashcat
 
-![Version](https://img.shields.io/github/v/release/wangdong0/wpa_hashcat?style=flat-square)![GitHub License](https://img.shields.io/github/license/wangdong0/wpa_hashcat?style=flat-square)![GitHub top language](https://img.shields.io/github/languages/top/wangdong0/wpa_hashcat?style=flat-square)![Platform](https://img.shields.io/badge/platform-linux-blue?style=flat-square)
+![Version](https://img.shields.io/github/v/release/wangdong0/wpa_hashcat?style=flat-square) ![GitHub License](https://img.shields.io/github/license/wangdong0/wpa_hashcat?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/wangdong0/wpa_hashcat?style=flat-square) ![Platform](https://img.shields.io/badge/platform-linux-blue?style=flat-square)
 
 wpa_hashcat是基于hashcat与hcxtools封装，专用于解析WPA握手包的跑包工具。使用该工具您可以在linux环境下快速调用hashcat对捕获的WPA握手包进行暴力破解，以满足一些简单的跑包需求。
 
